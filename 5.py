@@ -7,7 +7,7 @@ nltk.download('punkt')
 # Create Porter Stemmer object
 stemmer = PorterStemmer()
 
-# List of words
+# List of wordsa
 words = ["running", "jumps", "playing", "studies", "happiness", "easily", "connected"]
 
 print("Porter Stemmer Results")
